@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e6fab2-d5f1-4f19-9501-e035902d3935" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/AbstractDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/ConcreteClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Main_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Wrapper_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Wrapper_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/Bacon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/Drinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/Salami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/TestPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/Decorator/Konkret/Toppings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/BasicPizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/MyOnlyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/MyOnlyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/SingletonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Strategies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Strategies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/TestStrategyPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/TestStrategyPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$innerClassOfA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$innerClassOfA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$privateinnerClassOfA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$privateinnerClassOfA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/GenericBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/GenericBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/AircraftCarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/AircraftCarrier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Airport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Airport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Ship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/TestMixin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/TestMixin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/ParallelCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/ParallelCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/SingleCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/SingleCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/TestMyCounters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/TestMyCounters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/Future_AND_Callable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/Future_AND_Callable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/JobWithResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/JobWithResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/Inter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Decorator/BasicPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Singleton/MyOnlyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton/MyOnlyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -66,75 +15,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/MyOnlyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Main_Interface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/ConcreteClass.java">
+        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-              <folding>
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/AbstractDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding>
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Wrapper_A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Wrapper_B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-              </folding>
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -190,7 +89,6 @@
         <option value="$PROJECT_DIR$/src/DesignPattern/Strategy/Context.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Strategy/Im confused.puml" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Strategy/TestStrategyPattern.java" />
-        <option value="$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Decorator/BasicPizza.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Decorator/Pizza.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Decorator/Drinks.java" />
@@ -206,6 +104,8 @@
         <option value="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Wrapper_B.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/Wrapper_A.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Decorator/AbstractExample/ConcreteClass.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/DesignPattern/Singleton/MyOnlyClass.java" />
       </list>
     </option>
   </component>
@@ -251,15 +151,7 @@
               <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdvancedOOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="Konkret" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,7 +165,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579124302338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579125899526" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -302,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestClass.TestDecorator">
+  <component name="RunManager" selected="JUnit.SingletonTest.test">
     <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.Singleton.SingletonTest" />
       <module name="AdvancedOOPCodeOfSummary" />
@@ -312,6 +204,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AdvancedOOPCodeOfSummary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DesignPattern.Singleton" />
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.Singleton.SingletonTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -364,29 +272,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickMaf.sds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AdvancedOOPCodeOfSummary" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="quickTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="quickTests" />
-      <option name="MAIN_CLASS_NAME" value="quickTests.quickMaf" />
-      <option name="METHOD_NAME" value="sds" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingletonTest.test" />
         <item itemvalue="JUnit.TestClass.TestDecorator" />
         <item itemvalue="JUnit.TestPizza.makeAPizza" />
         <item itemvalue="JUnit.TestStrategyPattern.changeStrategy" />
         <item itemvalue="Application.SingletonTest" />
-        <item itemvalue="JUnit.quickMaf.sds" />
       </list>
     </recent_temporary>
   </component>
@@ -404,15 +296,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestClass_TestDecorator - 2020.01.15 at 21h 35m 03s.xml">
-      <configuration name="TestClass.TestDecorator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClass_TestDecorator - 2020.01.15 at 21h 35m 20s.xml">
-      <configuration name="TestClass.TestDecorator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestClass_TestDecorator - 2020.01.15 at 21h 53m 39s.xml">
-      <configuration name="TestClass.TestDecorator" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestClass_TestDecorator - 2020.01.15 at 21h 55m 54s.xml">
       <configuration name="TestClass.TestDecorator" configurationId="JUnit" />
     </history-entry>
@@ -433,6 +316,15 @@
     </history-entry>
     <history-entry file="TestClass_TestDecorator - 2020.01.15 at 21h 58m 42s.xml">
       <configuration name="TestClass.TestDecorator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest_test - 2020.01.15 at 22h 51m 21s.xml">
+      <configuration name="SingletonTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest_test - 2020.01.15 at 23h 01m 48s.xml">
+      <configuration name="SingletonTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest_test - 2020.01.15 at 23h 03m 06s.xml">
+      <configuration name="SingletonTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -717,20 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/MyOnlyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DesignPattern/Strategy/Strategies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -896,6 +774,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPattern/Singleton/MyOnlyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

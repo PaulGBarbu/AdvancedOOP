@@ -1,17 +1,24 @@
 package DesignPattern.Singleton;
 
 public class MyOnlyClass {
-    static MyOnlyClass me = new MyOnlyClass();
+    static private MyOnlyClass moc;
+    private int zahl;
+
     private MyOnlyClass(){
 
     }
 
-    void doSomething(){
-        System.out.println("hello");
+    static public MyOnlyClass newInstance(){
+        if(moc == null)
+            moc = new MyOnlyClass();
+        return moc;
     }
 
-    MyOnlyClass newInstance(){
+    public void num(int zahl){
+        this.zahl = zahl;
+    }
 
-        return me;
-    };
+    public int getNum(){
+        return zahl;
+    }
 }
