@@ -7,5 +7,5 @@ public class SingletonTest {
 @Test
     public void test(){
 
-}
+    }
 }
