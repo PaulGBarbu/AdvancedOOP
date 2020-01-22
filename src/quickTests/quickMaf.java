@@ -4,10 +4,10 @@ package quickTests;
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class quickMaf<T> {
     ArrayList<T> list = new ArrayList<>();
-
     Object methode(){
         if(list.size() == 0)
             return null;
@@ -34,6 +34,14 @@ public class quickMaf<T> {
             }
         };
 
+    }
+    @Test
+    public void myModulo(){
+        Scanner s = new Scanner(System.in);
+        while(true){
+            String str = s.next();
+            System.out.println(Integer.parseInt(str)%9);
+        }
     }
 }
 

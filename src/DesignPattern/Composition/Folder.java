@@ -1,4 +1,4 @@
 package DesignPattern.Composition;
 
-public class Grafik {
+public class Folder {
 }

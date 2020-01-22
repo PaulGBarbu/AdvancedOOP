@@ -1,4 +1,6 @@
 package quickTests;
 
-public class MyComparator {
+@FunctionalInterface
+public interface MyComparator<T> {
+    T compare(T a,T b);
 }

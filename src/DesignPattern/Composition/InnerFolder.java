@@ -1,4 +1,4 @@
 package DesignPattern.Composition;
 
-public class CompoundGraphic {
+public class InnerFolder {
 }
