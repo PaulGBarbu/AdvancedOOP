@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e6fab2-d5f1-4f19-9501-e035902d3935" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/AbstractDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/AbstractDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/ConcreteClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/ConcreteClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/Main_Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/Main_Interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/Wrapper_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/Wrapper_A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/Wrapper_B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/AbstractExample/Wrapper_B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Bacon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Bacon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Drinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Drinks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Salami.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Salami.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Sauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Sauce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/TestPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/TestPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Toppings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Decorator/Konkret/Toppings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/MyOnlyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/MyOnlyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Singleton/SingletonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Strategies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/Strategies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/StrategyB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/TestStrategyPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/DesignPattern/Strategy/TestStrategyPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$innerClassOfA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$innerClassOfA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$privateinnerClassOfA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA$privateinnerClassOfA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/ClassE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/GenericBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/GenericBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Generics/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/AircraftCarrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/AircraftCarrier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Airport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Airport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/Ship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/TestMixin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/Mixin/TestMixin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/ParallelCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/ParallelCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/SingleCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/SingleCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/TestMyCounters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/BeanCounter/TestMyCounters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/Future_AND_Callable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/Future_AND_Callable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/JobWithResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/JobWithResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ProducerConsumer/Threadexample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/ParallelProcessing/ThreadWithRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/Inter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/Inter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedOOPCodeOfSummary/quickTests/quickMaf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Composition/Folder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Composition/Folder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Composition/InnerFolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Composition/InnerFolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/FuncInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/FuncInter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LambdaExpressions/LambdaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/CounterFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/CounterFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/TestMyNewTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/TestMyNewTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quickTests/MyComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quickTests/MyComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quickTests/TestComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quickTests/TestComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quickTests/quickMaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quickTests/quickMaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Streams.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Streams/Streams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/quickTests/quickMaf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+            <state relative-caret-position="373">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,8 +93,8 @@
         <option value="$PROJECT_DIR$/src/quickTests/InterA.java" />
         <option value="$PROJECT_DIR$/src/quickTests/InterB.java" />
         <option value="$PROJECT_DIR$/src/quickTests/Mixin.java" />
-        <option value="$PROJECT_DIR$/src/Streams/Streams.java" />
         <option value="$PROJECT_DIR$/src/quickTests/quickMaf.java" />
+        <option value="$PROJECT_DIR$/src/Streams/Streams.java" />
       </list>
     </option>
   </component>
@@ -180,36 +110,51 @@
     <option name="width" value="816" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AdvancedOOPCodeOfSummary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdvancedOOPCodeOfSummary" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AdvancedOOPCodeOfSummary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdvancedOOPCodeOfSummary" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AdvancedOOPCodeOfSummary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdvancedOOPCodeOfSummary" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="quickTests" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdvancedOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Composition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdvancedOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdvancedOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Streams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +163,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579709683219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579731078333" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -247,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.quickMaf.myModulo">
+  <component name="RunManager" selected="JUnit.Streams.recursionAndStreams">
     <configuration name="Streams.bigInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AdvancedOOPCodeOfSummary" />
       <extension name="coverage">
@@ -264,7 +209,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams.binaryOperator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Streams.filterStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AdvancedOOPCodeOfSummary" />
       <extension name="coverage">
         <pattern>
@@ -274,13 +219,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="Streams" />
       <option name="MAIN_CLASS_NAME" value="Streams.Streams" />
-      <option name="METHOD_NAME" value="binaryOperator" />
+      <option name="METHOD_NAME" value="filterStream" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams.firstStreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Streams.mapStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AdvancedOOPCodeOfSummary" />
       <extension name="coverage">
         <pattern>
@@ -290,13 +235,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="Streams" />
       <option name="MAIN_CLASS_NAME" value="Streams.Streams" />
-      <option name="METHOD_NAME" value="firstStreamTest" />
+      <option name="METHOD_NAME" value="mapStream" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams.streamAndReduce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Streams.recursionAndStreams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AdvancedOOPCodeOfSummary" />
       <extension name="coverage">
         <pattern>
@@ -306,7 +251,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="Streams" />
       <option name="MAIN_CLASS_NAME" value="Streams.Streams" />
-      <option name="METHOD_NAME" value="streamAndReduce" />
+      <option name="METHOD_NAME" value="recursionAndStreams" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -330,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Streams.recursionAndStreams" />
+        <item itemvalue="JUnit.Streams.filterStream" />
+        <item itemvalue="JUnit.Streams.mapStream" />
         <item itemvalue="JUnit.quickMaf.myModulo" />
         <item itemvalue="JUnit.Streams.bigInt" />
-        <item itemvalue="JUnit.Streams.binaryOperator" />
-        <item itemvalue="JUnit.Streams.streamAndReduce" />
-        <item itemvalue="JUnit.Streams.firstStreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -352,41 +297,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Streams_streamAndReduce - 2020.01.21 at 17h 42m 26s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_streamAndReduce - 2020.01.21 at 17h 49m 42s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_streamAndReduce - 2020.01.22 at 12h 10m 30s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_streamAndReduce - 2020.01.22 at 12h 10m 45s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_streamAndReduce - 2020.01.22 at 12h 10m 57s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_streamAndReduce - 2020.01.22 at 12h 15m 22s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_streamAndReduce - 2020.01.22 at 12h 16m 34s.xml">
-      <configuration name="Streams.streamAndReduce" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_binaryOperator - 2020.01.22 at 12h 25m 33s.xml">
-      <configuration name="Streams.binaryOperator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Streams_binaryOperator - 2020.01.22 at 12h 25m 44s.xml">
-      <configuration name="Streams.binaryOperator" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Streams_bigInt - 2020.01.22 at 14h 18m 21s.xml">
       <configuration name="Streams.bigInt" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Streams_mapStream - 2020.01.22 at 22h 00m 10s.xml">
+      <configuration name="Streams.mapStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_filterStream - 2020.01.22 at 22h 01m 19s.xml">
+      <configuration name="Streams.filterStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 22h 52m 59s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 22h 54m 03s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 22h 54m 12s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 23h 00m 46s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 23h 01m 56s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 23h 03m 44s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Streams_recursionAndStreams - 2020.01.22 at 23h 10m 44s.xml">
+      <configuration name="Streams.recursionAndStreams" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="-8" width="816" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28306878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,7 +340,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21885157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -403,7 +348,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3257066" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32502708" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -640,13 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-13/lib/src.zip!/java.base/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-705">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13/lib/src.zip!/java.base/java/lang/Runnable.java" />
     <entry file="file://$PROJECT_DIR$/src/ParallelProcessing/ThreadWithCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -713,13 +652,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-13/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="1370" selection-start-line="1370" selection-end-line="1370" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-13/lib/src.zip!/java.base/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/ParallelProcessing/AnotherTry/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -793,20 +726,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Streams/Streams.java">
+    <entry file="file://$PROJECT_DIR$/src/quickTests/quickMaf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="474">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/quickTests/quickMaf.java">
+    <entry file="file://$PROJECT_DIR$/src/Streams/Streams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+        <state relative-caret-position="373">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -877,7 +810,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>9</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
