@@ -15,7 +15,7 @@ public class Graph {
     }
 
     private void init(){
-    s = new Knoten("Start");
+    s = new Knoten("S");
     a = new Knoten("A");
     b = new Knoten("B");
     c = new Knoten("C");
@@ -69,7 +69,6 @@ public class Graph {
         list.add(a);
         list.add(b);
         list.add(c);
-        list.add(d);
         list.add(d);
         list.add(g);
         list.add(f);

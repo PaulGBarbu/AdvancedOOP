@@ -22,4 +22,8 @@ public class Kante {
     public int getDistance() {
         return distance;
     }
+
+    public String toString(){
+        return "From " + start.getName() + " to " + end.getName() + " (cost: " + distance +")";
+    }
 }
