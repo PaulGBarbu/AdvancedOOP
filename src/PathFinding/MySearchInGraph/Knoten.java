@@ -1,4 +1,4 @@
-package PathFinding.Dijkstra;
+package PathFinding.MySearchInGraph;
 
 public class Knoten {
     private String name;
